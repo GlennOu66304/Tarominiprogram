@@ -1,3 +1,8 @@
+From github project to local:
+My app:[Myapp](https://github.com/GlennOu66304/MyApp)
+
+
+
 ## Enviroment Building:
 1.NVM shift the node to the latest version:  
 ```
