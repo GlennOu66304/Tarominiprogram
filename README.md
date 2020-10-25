@@ -9,7 +9,7 @@ Node version in the project:  v14.14.0 (npm v6.14.8)
 NVM:[11.Bugs: fixing when you run the project in the Local shell:](https://github.com/GlennOu66304/Uniapp-Mini-Program-Development)  
 
 2.Install Taro
-````
+```
 npm install -g @tarojs/cli 
 taro -v
 taro init myApp
@@ -50,8 +50,8 @@ Tarogithub:[Taro Github](https://github.com/NervJS/taro)
 [Taro 小程序开发大型实战（一）：熟悉的 React，熟悉的 Hooks](https://juejin.im/post/6844904032125845517)  
 [Taro 小程序开发大型实战（二）：多页面跳转和 Taro UI 组件库](https://juejin.im/post/6844904033929396237)  
 [Taro 小程序开发大型实战（三）：实现微信和支付宝多端登录](https://juejin.im/post/6844904038635405320)  
-[Taro 小程序开发大型实战（四）：使用 Hooks 版的 Redux 实现应用状态管理（上篇）](https://juejin.im/post/6844904038652182535)  
-[Taro 小程序开发大型实战（五）：使用 Hooks 版的 Redux 实现应用状态管理（下篇）](https://juejin.im/post/6844904048039034894)  
-[Taro 小程序开发大型实战（六）：尝鲜微信小程序云（上篇）](https://juejin.im/post/6844904048101949454)  
-[Taro 小程序开发大型实战（七）：尝鲜微信小程序云（下篇）](https://juejin.im/post/6844904067475439623)   
+[Taro 小程序开发大型实战（四）：使用 Hooks 版的 Redux 实现应用状态管理（上篇](https://juejin.im/post/6844904038652182535)  
+[Taro 小程序开发大型实战（五）：使用 Hooks 版的 Redux 实现应用状态管理（下篇](https://juejin.im/post/6844904048039034894)  
+[Taro 小程序开发大型实战（六）：尝鲜微信小程序云（上篇](https://juejin.im/post/6844904048101949454)  
+[Taro 小程序开发大型实战（七）：尝鲜微信小程序云（下篇](https://juejin.im/post/6844904067475439623)   
 [Taro 小程序开发大型实战（八）：尝鲜 LeanCloud Serverless 云服务](https://juejin.im/post/6844904068981194766)  
