@@ -49,7 +49,9 @@ Main reference:
 ## Example running:   
 [实战篇电商平台的示例](https://github.com/o2team/taro-ebook-source/tree/master/taro-demo)  
 [《用 Taro 实现一个简单的 Todo 项目》的示例](https://github.com/o2team/taro-ebook-source/tree/master/todoList)  
-[]
+[示例项目](https://github.com/NervJS/awesome-taro)   
+[Taro 实践 + 案例](http://taro-club.jd.com/categories)   
+[让每一个轮子产生价值](http://taro-ext.jd.com/?sort=hot)   
 ## Learning Resource
 Main  Reference: 掘金小册：[Taro 多端开发实现原理与项目实战](https://juejin.im/book/6844733744830480397)  
 Source Code:  [《Taro 多端开发实现原理与项目实战》源码](https://github.com/o2team/taro-ebook-source)  
