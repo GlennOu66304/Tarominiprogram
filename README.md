@@ -1,7 +1,5 @@
-From github project to local:
+## From github project to local:
 My app:[Myapp](https://github.com/GlennOu66304/MyApp)
-
-
 
 ## Enviroment Building:
 1.NVM shift the node to the latest version:  
@@ -47,8 +45,14 @@ Main reference:
 [【原创：Taro系列基础篇】一：taro简介及项目准备](https://blog.huangkaihan.tech/article/47)  
 [Taro开发小程序 - 开始](https://www.bilibili.com/video/av540990204/)  
 
+
+## Example running:   
+[实战篇电商平台的示例](https://github.com/o2team/taro-ebook-source/tree/master/taro-demo)  
+[《用 Taro 实现一个简单的 Todo 项目》的示例](https://github.com/o2team/taro-ebook-source/tree/master/todoList)  
+[]
 ## Learning Resource
 Main  Reference: 掘金小册：[Taro 多端开发实现原理与项目实战](https://juejin.im/book/6844733744830480397)  
+Source Code:  [《Taro 多端开发实现原理与项目实战》源码](https://github.com/o2team/taro-ebook-source)  
 Taro doc:[Taro](https://taro.jd.com/)  
 Tarogithub:[Taro Github](https://github.com/NervJS/taro)   
 [使用 Taro 开发微信小程序的实践 + 踩坑合集](https://juejin.im/post/6844903793935515655)  
